@@ -85,6 +85,6 @@ if conversion_data:
         rate_currency_code = rate.get("rateCurrency").get("code")
         rate_symbol = rate.get("rateCurrency").get("symbol")
         rate_value = rate.get("baseValue")
-        print(f"{rate_currency_code} Paralelo ({rate_symbol}): Bs.S {rate_value} ")
+        print(f"{rate_currency_code} No Oficial ({rate_symbol}): Bs.S {rate_value} ")
 else:
   print("Error: Failed to retrieve conversion rates.")
