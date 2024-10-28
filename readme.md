@@ -1,5 +1,4 @@
 # Api al Cambio <img src="https://alcambio.app/_nuxt/logo.985da08a.png" alt="alcambio logo" align="right" width="150px">
-- Url: https://api.alcambio.app/graphql
 
 Codigo en Python para extraer del api de "al cambio (no oficial sin documentanción)" valor de monedas.
 tuve que navegar un poquito en el codigo web, y descubrir mediante su query el como funcionaba esta.
